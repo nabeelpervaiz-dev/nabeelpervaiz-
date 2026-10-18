@@ -22,11 +22,7 @@
 - JavaScript (ES6+)
 - React.js
 - Tailwind CSS
-- Bootstrap
 - GSAP
-- Lenis
-- Locomotive Scroll
-
 ---
 
 ## Currently Learning
